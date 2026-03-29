@@ -1,4 +1,4 @@
-module github.com/VictoriaMetrics/fastcache
+module github.com/HT4w5/fastcache
 
 go 1.24.0
 
